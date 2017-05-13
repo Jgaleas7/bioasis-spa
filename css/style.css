@@ -90,7 +90,7 @@ img {
      padding-left:0;
 }
 .nav > li > a {
-    padding: 10px 66px;
+    padding: 10px 60px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
